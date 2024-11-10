@@ -1,10 +1,10 @@
 # Curso de Cypress
 
-## Description
-This is a project to learn Cypress from scratch for JoanMedia. The project is designed to help you understand the basics of Cypress, a powerful tool for end-to-end testing.
+## Descripción
+Este es un proyecto para aprender Cypress desde cero para JoanMedia. El proyecto está diseñado para ayudarte a entender los conceptos básicos de Cypress, una herramienta poderosa para pruebas end-to-end.
 
-## Installation
-To install the project dependencies, run the following command:
+## Instalación
+Para instalar las dependencias del proyecto, ejecuta el siguiente comando:
 ```bash
 npm install
 ```
